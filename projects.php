@@ -111,10 +111,14 @@
                                             <h2>Links</h2>
                                         </header>
                                         <ul class="default">
-                                            <li><a href="' . $project->links[0]->address . '">' . $project->links[0]->text . '</a></li>
-                                            <li><a href="' . $project->links[1]->address . '">' . $project->links[1]->text . '</a></li>
-                                            <li><a href="' . $project->links[2]->address . '">' . $project->links[2]->text . '</a></li>
+                                            ';
                                             
+                                            foreach ($project->links as $link) {
+                                                echo '
+                                                <li><a href="' . $link->address . '">' . $link->text . '</a></li>';
+                                            };
+                                            
+                                            echo '
                                         </ul>
                                     </section>
                                 </div>
