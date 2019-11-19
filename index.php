@@ -54,19 +54,19 @@
 									<div class="box">
 										<p><strong>Music4MyEyes</strong> is a 3D music player and vizualizer with fun shapes and colors which dance to the rythm of the music.
 										<br><a href="projects.php#Music4MyEyes" >Read more...</a></p>
-										<a href="https://drive.google.com/uc?id=16kNhJ8N4Hp6tJ2z7VuXXKBCkzYE2rPbG&export=download" class="button">Free Download</a> </div>
+										<a href="downloads/Music4MyEyes_Win32.zip" class="button">Free Download</a> </div>
 								</section>
 								<section class="4u"> <a href="projects.php#The Matrix 3D" class="image featured"><img src="images/matrix03.jpg" alt=""></a>
 									<div class="box">
 										<p><strong>The Matrix 3D</strong> is a interactive game which lets the user navigate around the falling code from the movie The Matrix.
 										<br><a href="projects.php#The Matrix 3D" >Read more...</a></p>
-										<a href="https://drive.google.com/uc?id=1dAgc-MnJ-lsy0WTRils742lYzmThgfPc&export=download" class="button">Free Download</a> </div>
+										<a href="downloads/TheMatrix3D_Windows_32.zip" class="button">Free Download</a> </div>
 								</section>
 								<section class="4u"> <a href="projects.php#Solar System 3D" class="image featured"><img src="images/planetas.jpg" alt=""></a>
 									<div class="box">
 										<p><strong>Solar System 3D</strong> is a combination of a music vizualizer and a solar system simulator with dancing planets.
 										<br><a href="projects.php#Solar System 3D" >Read more...</a></p>
-										<a href="https://drive.google.com/uc?id=1p_GpQ_OvaRcOmYPjyzBEO3ukZAHXacwS&export=download" class="button">Free Download</a> </div>
+										<a href="downloads/SolarSystem3D_Win_32.zip" class="button">Free Download</a> </div>
 								</section>
 							</div>
 							<div class="row no-collapse-1">
@@ -74,14 +74,14 @@
 									<div class="box">
 										<p><strong>Hot PingPong</strong> is a 3d ping pong game which special effects based on how fast the ball is flying.
 										<br><a href="projects.php#Hot PingPong" >Read more...</a></p>
-										<a href="https://drive.google.com/uc?id=1_7bzETsix10C7JnbWieV5jFMEAgTh39I&export=download" class="button">Free Download</a> </div>
+										<a href="downloads/HotPingPong_Windows32.zip" class="button">Free Download</a> </div>
 								</section>
 								<section class="4u"> <a href="projects.php#FreeKick" class="image featured"><img src="images/soccer.jpg" alt=""></a>
 									<div class="box">
 										<p><strong>FreeKick</strong> is a 3D soccer game which uses realistic physics symulation and sound effects.
 										
 										<br><a href="projects.php#FreeKick" >Read more...</a></p>
-										<a href="https://drive.google.com/uc?id=1YixPMWsBZ9mqIkrf5PEb7ikVxCtbKmbB&export=download" class="button">Free Download</a> </div>
+										<a href="downloads/FreeKick_windows_32.zip" class="button">Free Download</a> </div>
 								</section>
 								<section class="4u"> <a href="#" class="image featured"><img src="images/pic03.jpg" alt=""></a>
 									<div class="box">

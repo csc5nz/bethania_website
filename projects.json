@@ -7,7 +7,7 @@
         "links": [
             {
                 "text": "Download Music4MyEyes",
-                "address": "https://drive.google.com/uc?id=16kNhJ8N4Hp6tJ2z7VuXXKBCkzYE2rPbG&export=download"
+                "address": "downloads/Music4MyEyes_Win32.zip"
             },
             {
                 "text": "GitHub Repository",
@@ -28,7 +28,7 @@
         "links": [
             {
                 "text": "Download The Matrix 3D",
-                "address": "https://drive.google.com/uc?id=1dAgc-MnJ-lsy0WTRils742lYzmThgfPc&export=download"
+                "address": "downloads/TheMatrix3D_Windows_32.zip"
             },
             {
                 "text": "GitHub Repository",
@@ -49,7 +49,7 @@
         "links": [
             {
                 "text": "Download Solar System 3D",
-                "address": "https://drive.google.com/uc?id=1p_GpQ_OvaRcOmYPjyzBEO3ukZAHXacwS&export=download"
+                "address": "downloads/SolarSystem3D_Win_32.zip"
             },
             {
                 "text": "GitHub Repository",
@@ -70,7 +70,7 @@
         "links": [
             {
                 "text": "Download Hot PingPong",
-                "address": "https://drive.google.com/uc?id=1_7bzETsix10C7JnbWieV5jFMEAgTh39I&export=download"
+                "address": "downloads/HotPingPong_Windows32.zip"
             },
             {
                 "text": "GitHub Repository",
@@ -90,8 +90,8 @@
         "body": "Maecenas pede nisl, elementum eu, ornare ac, malesuada at, erat. Proin gravida orci porttitor enim accumsan lacinia. Donec condimentum, urna non molestie semper, ligula enim ornare nibh, quis laoreet eros quam eget ante. Aliquam libero. Vivamus nisl nibh, iaculis vitae, viverra sit amet, ullamcorper vitae, turpis. Aliquam erat volutpat. Vestibulum pulvinar sed, imperdiet nec, iaculis nec, leo. Fusce odio. Etiam arcu dui, faucibus eget, placerat vel, sodales eget, orci. Donec ornare neque ac sem. Mauris aliquet. Aliquam sem leo, vulputate sed, convallis at, ultricies quis, justo. Donec nonummy magna. Quisque eleifend.",
         "links": [
             {
-                "text": "Download Hot PingPong",
-                "address": "https://drive.google.com/uc?id=1YixPMWsBZ9mqIkrf5PEb7ikVxCtbKmbB&export=download"
+                "text": "Download FreeKick",
+                "address": "downloads/FreeKick_windows_32.zip"
             },
             {
                 "text": "GitHub Repository",
