@@ -66,7 +66,7 @@
 										<h2>My Projects</h2>
 										<span class="byline">A mix of interative multimedia applications</span>
 									</header>
-									<p>Here you can find the projects I've worked on. It is a eclectic mix of applications ranging from games to multimedia utilities. I started building the application Music4MyEyes as a passtime, as a way to learn more about programing, and to try out the Processing programing framework, but as I got more into the development, Music4MyEyes turned into a fully fledge tool. Developing each application, I learned new aspects of Processing and my programing quality improved.</p>
+									<p>Here you can find the projects I've worked on. It's a eclectic mix of applications ranging from games to multimedia utilities. I started building the application Music4MyEyes as a passtime, as a way to learn more about programing, and to try out the Processing programing framework, but as I got more into the development, Music4MyEyes turned into a fully fledge tool. Developing each application, I learned new aspects of Processing and my programing quality improved.</p>
 									<p>Below you can find writeups for each of my apps in chronological order. For each application I include a video demostration, a link to download the app, and a link to its GitHub repository.</p>
 								</section>
 							</div>
