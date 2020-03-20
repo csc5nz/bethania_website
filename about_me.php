@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	Phase Shift by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
 <html>
 	<head>
 		<title>About Me - Maria Bethania's Page</title>
@@ -54,7 +49,7 @@
 		<div id="copyright">
 			<div class="container">
 				<div class="copyright">
-					<p>Design by <a href="http://templated.co">TEMPLATED</a> 
+					<p>Built by <a href="https://github.com/csc5nz">CSC</a> 
 					<ul class="icons">
 						<li><a href="#" class="fa fa-facebook"><span>Facebook</span></a></li>
 						<li><a href="https://www.youtube.com/channel/UC5rllsScazFsEJteCECxuZw" class="fa fa-youtube"><span>YouTube</span></a></li>
